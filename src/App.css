@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+#SearchBar {
+  position: sticky;
+  display: flex;
+  background-color: #282c34;
+  top: 0;
+  height: 50px;
+}
+
+#SearchInput {
+  flex: 8;
+  width: 50%;
+  height: 90%;
+  font-size: xx-large;
+}
+
+#filters {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.filter {
+  color: azure;
+  
+}
+
+#gif {
+  margin: '0 auto'; 
+  line-height: 0;
+}
+
+@media (max-width: 599px) {
+  picture {
+    width: 100px;
+  }
+  #SearchInput {
+    font-size: medium;
+  }
+}
+
+
+picture {
+  width: 200px;
+}
