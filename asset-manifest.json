@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TTP-Assignment7-GiphyAPI/static/css/main.c2ad440a.chunk.css",
+    "main.js": "/TTP-Assignment7-GiphyAPI/static/js/main.cd26e77a.chunk.js",
+    "main.js.map": "/TTP-Assignment7-GiphyAPI/static/js/main.cd26e77a.chunk.js.map",
+    "runtime-main.js": "/TTP-Assignment7-GiphyAPI/static/js/runtime-main.11c435a5.js",
+    "runtime-main.js.map": "/TTP-Assignment7-GiphyAPI/static/js/runtime-main.11c435a5.js.map",
+    "static/js/2.9e640966.chunk.js": "/TTP-Assignment7-GiphyAPI/static/js/2.9e640966.chunk.js",
+    "static/js/2.9e640966.chunk.js.map": "/TTP-Assignment7-GiphyAPI/static/js/2.9e640966.chunk.js.map",
+    "static/js/3.ad613dac.chunk.js": "/TTP-Assignment7-GiphyAPI/static/js/3.ad613dac.chunk.js",
+    "static/js/3.ad613dac.chunk.js.map": "/TTP-Assignment7-GiphyAPI/static/js/3.ad613dac.chunk.js.map",
+    "index.html": "/TTP-Assignment7-GiphyAPI/index.html",
+    "static/css/main.c2ad440a.chunk.css.map": "/TTP-Assignment7-GiphyAPI/static/css/main.c2ad440a.chunk.css.map",
+    "static/js/2.9e640966.chunk.js.LICENSE.txt": "/TTP-Assignment7-GiphyAPI/static/js/2.9e640966.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c435a5.js",
+    "static/js/2.9e640966.chunk.js",
+    "static/css/main.c2ad440a.chunk.css",
+    "static/js/main.cd26e77a.chunk.js"
+  ]
+}
